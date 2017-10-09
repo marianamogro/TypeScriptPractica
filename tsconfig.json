@@ -1,0 +1,9 @@
+{
+  "files": [
+    "src/*.ts", "src/banco/*.ts"
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es5"
+  }
+}
